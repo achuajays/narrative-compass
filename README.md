@@ -1,5 +1,8 @@
 # The Narrative Compass 🧭
 
+![image.png](image.png)
+
+
 > **An AI-powered co-authoring environment that transforms static text into a living, breathing fictional universe.**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
